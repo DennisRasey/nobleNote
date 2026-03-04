@@ -1,3 +1,12 @@
+Release 1.5.0
+=============
+
+ - Fix generation of .qm translation files, properly run lrelease on systems where only Qt6 is installed by @nebomuk
+ - SVG Icons by @nebomuk
+ - fix not quitting app on explicit quit by @hakaishi
+ - Fixes crashes and "ghost windows" when using the recycle bin (trash) by @nebomuk
+ - Drag and drop move instead of copy by @nebomuk
+
 Release 1.4.0
 =============
 
